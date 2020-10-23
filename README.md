@@ -1,0 +1,2 @@
+# DAIIA_final_project_submission
+ This project was a part of the Distributed Artificial Intelligence and Intelligent Agents course I participated in during my master at KTH. I created a multi agent simulation of a festival, with different stages, artists, concert timings, guests and food and drinks stand. There was also an illness spreading among the guests, and there were doctors, researchers, hopsitals and research facilities to try and prevent the spreading of illness.
